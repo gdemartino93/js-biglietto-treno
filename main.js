@@ -13,8 +13,7 @@ if (age <= 17) {
     console.log(costo.toFixed(2));
 }
 // sconto età over 65 
-else if (age => 65){
-    
+else if ( age >= 65){
     let sconto= (numeroKm * prezzo) * 40 / 100;
     let costo=(prezzointero - sconto);
     console.log(costo.toFixed(2));
