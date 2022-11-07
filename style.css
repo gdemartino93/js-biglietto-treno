@@ -7,3 +7,19 @@
     height: 100vh;
     background-color: beige;
 }
+
+img{
+    width: 100px;
+    height: 200px;
+    /* animation: run 5s infinite;
+    position: relative;
+    left: 0; */
+}
+/* @keyframes run {
+    from{
+        position: relative;
+    }
+    to{
+        left: 200px;
+    }
+} */
